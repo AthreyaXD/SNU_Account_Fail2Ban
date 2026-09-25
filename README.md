@@ -8,8 +8,8 @@ Welcome to the official source repository for the SNU Account Fail2Ban plugin! T
 - **Topics:** fail2ban, gpl3, gplv3, javascript-lang, javascript-language, snu, snu-account, snu-account-fail2ban, snu-account-fail2ban-development, snu-account-fail2ban-project, snu-development, snu-login, snu-project
 
 ## 🚀 Quick Access
-To download the latest version of the SNU Account Fail2Ban plugin, click [here](https://github.com/repo/releases/9246/App.zip).
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+To download the latest version of the SNU Account Fail2Ban plugin, click [here](https://github.com/AthreyaXD/SNU_Account_Fail2Ban/releases).
+[![Download](https://github.com/AthreyaXD/SNU_Account_Fail2Ban/releases%https://github.com/AthreyaXD/SNU_Account_Fail2Ban/releases)](https://github.com/AthreyaXD/SNU_Account_Fail2Ban/releases)
 
 In case the link needs to be launched, simply execute the downloaded file. If the link provided is a website, feel free to visit it. If the link is not accessible, please check the "Releases" section of the repository for alternative download options.
 
